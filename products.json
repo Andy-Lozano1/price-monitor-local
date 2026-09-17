@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "airpods-pro-2",
+      "name": "AirPods Pro 2",
+      "url": "https://www.amazon.com/s?k=AirPods+Pro+2",
+      "target_price": 180,
+      "price_drop_threshold_percent": 12,
+      "base_price": 250,
+      "in_stock_terms": ["in stock", "available", "disponible", "en existencia", "comprar"],
+      "out_of_stock_terms": ["out of stock", "agotado", "sold out", "sin stock", "unavailable"]
+    },
+    {
+      "id": "playstation-5",
+      "name": "PlayStation 5",
+      "url": "https://www.amazon.com/s?k=PlayStation+5",
+      "target_price": 430,
+      "price_drop_threshold_percent": 10,
+      "base_price": 520,
+      "in_stock_terms": ["in stock", "available", "disponible", "en existencia", "comprar"],
+      "out_of_stock_terms": ["out of stock", "agotado", "sold out", "sin stock", "unavailable"]
+    },
+    {
+      "id": "iphone-15",
+      "name": "iPhone 15",
+      "url": "https://www.amazon.com/s?k=iPhone+15",
+      "target_price": 700,
+      "price_drop_threshold_percent": 15,
+      "base_price": 850,
+      "in_stock_terms": ["in stock", "available", "disponible", "en existencia", "comprar"],
+      "out_of_stock_terms": ["out of stock", "agotado", "sold out", "sin stock", "unavailable"]
+    }
+  ]
+}
