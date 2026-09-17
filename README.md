@@ -164,7 +164,7 @@ Para sitios reales, a menudo es necesario ajustar:
 
 Esto es normal porque cada tienda tiene un HTML y estructuras diferentes.
 
-## License
+## Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta [LICENSE](LICENSE) para más detalles.
 
